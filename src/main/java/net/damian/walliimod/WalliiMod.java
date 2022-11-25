@@ -17,6 +17,7 @@ public class WalliiMod
     public static final String MOD_ID = "walliimod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    //8===D
     public WalliiMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
